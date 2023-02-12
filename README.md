@@ -1,16 +1,25 @@
-### Hi there 👋
+## OLÁ, ME CHAMO BRYAN! 
 
-<!--
-**BloiseB/BloiseB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔮 Estou estudando programação(html, python, c#, java), logo começarei outras.
 
-Here are some ideas to get you started:
+👯 Estou procurando **oportunidades** de estudo/trabalho na aréa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Caso eu possa ajudar, é só me pedir, logo postarei meus trabalhos [aqui!](https://github.com/BloiseB?tab=repositories) 
+
+😄 Ele/Dele
+
+🧭 Sou apaixonado por **cinema**, arte em geral, sempre que posso faço desenhos ou até mesmo tento **programar um jogo** (mas nunca consigo).
+
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
+<div style="display: incline_block"><br>
+<img align="center" alt="bryan-js" height"30" width"40" src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg/">    
+</div>
+
