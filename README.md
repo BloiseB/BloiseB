@@ -1,12 +1,10 @@
 ## OLÁ, ME CHAMO BRYAN! 
 
-🔮 Estou estudando programação(html, python, c#, java), logo começarei outras.
+🔮 Estou estudando programação(html, python, c#, javaScript), logo começarei outras.
 
 👯 Estou procurando **oportunidades** de estudo/trabalho na aréa.
 
 💬 Caso eu possa ajudar, é só me pedir, logo postarei meus trabalhos [aqui!](https://github.com/BloiseB?tab=repositories) 
-
-😄 Ele/Dele
 
 🧭 Sou apaixonado por **cinema**, arte em geral, sempre que posso faço desenhos ou até mesmo tento **programar um jogo** (mas nunca consigo).
 
