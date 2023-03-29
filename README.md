@@ -6,7 +6,7 @@
 
 💬 Caso eu possa ajudar, é só me pedir, logo postarei meus trabalhos [aqui!](https://github.com/BloiseB?tab=repositories) 
 
-🧭 Sou apaixonado por **cinema**, arte em geral, sempre que posso faço desenhos ou até mesmo tento **programar um jogo** (mas nunca consigo).
+🧭 Sou apaixonado por **cinema**, arte em geral, sempre que posso faço desenhos ou até mesmo tento **programar um jogo**.
 
 </div>
 
