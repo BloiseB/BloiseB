@@ -1,6 +1,6 @@
 ## OLÁ, ME CHAMO BRYAN! 
 
-🔮 Estou estudando programação(html, python, c#, javaScript e php), logo começarei outras.
+🔮 Estou estudando programação(html, python, c# e javaScript).
 
 👯 Estou procurando **oportunidades** de estudo/trabalho na aréa.
 
