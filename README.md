@@ -2,7 +2,7 @@
 
 🔮 Estou Cursando ADS e faço cursos relacionados a programção(html, python, c# e javaScript).
 
-👯 Estou procurando **oportunidades** de estudo/trabalho na aréa.
+👯 Estou procurando **oportunidades** de estudo/trabalho na aréa. (www.linkedin.com/in/bryan-bloise-2335072b3)
 
 💬 Caso eu possa ajudar, é só me pedir, logo postarei meus trabalhos [aqui!](https://github.com/BloiseB?tab=repositories) 
 
