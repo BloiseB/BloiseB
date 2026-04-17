@@ -8,6 +8,8 @@
 
 🧭 Sou apaixonado por **cinema**, arte em geral, sempre que posso faço desenhos ou até mesmo tento **programar um jogo**.
 
+<img width="1280" height="720" alt="a-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2e15be75-a03a-4f9b-9a73-0dfb07c8420c" />
+
 </div>
 
 <div align="center">
